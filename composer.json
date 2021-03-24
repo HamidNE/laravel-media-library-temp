@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-medialibrary",
+    "name": "hamidne/laravel-media-library-temp",
     "description": "Associate files with Eloquent models",
     "keywords": [
         "spatie",
@@ -11,13 +11,13 @@
         "cms",
         "laravel"
     ],
-    "homepage": "https://github.com/spatie/laravel-medialibrary",
+    "homepage": "https://github.com/HamidNE/laravel-media-library-temp",
     "license": "MIT",
     "authors": [
         {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
+            "name": "HamidNE",
+            "email": "hamidne@mail.ru",
+            "homepage": "https://hamidne.ir",
             "role": "Developer"
         }
     ],
